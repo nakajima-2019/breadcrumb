@@ -1,24 +1,6 @@
-# README
+# パンクズアプリについての学び
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+１、パンくずとは、ユーザーの位置をわかりやすく示すためにWebページを階層順にして、リンクを設置したリストを画面に表示させる機能のこと
 
-Things you may want to cover:
+２、パンくずは、親子関係を設定することで、リンクを残すことができること
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
